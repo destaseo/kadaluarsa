@@ -4,7 +4,7 @@
   "update_title": "Pembaruan Tersedia! 🎉",
   "update_message": "Versi terbaru udah rilis nih bang!",
   "update_url": "https://github.com/destaseomods/protect/releases/download/v2.0.0/app.apk",
-  "force_update": false,
+  "force_update": true,
   "show_not_now": true,
   "dark_theme": false,
   "accent_color": "#FF6B35",

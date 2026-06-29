@@ -1,0 +1,24 @@
+{
+  "version_code": 10,
+  "version_name": "2.0.0",
+  "update_title": "Pembaruan Tersedia! 🎉",
+  "update_message": "Versi terbaru udah rilis nih bang!",
+  "update_url": "https://github.com/destaseomods/protect/releases/download/v2.0.0/app.apk",
+  "force_update": false,
+  "show_not_now": true,
+  "dark_theme": false,
+  "accent_color": "#FF6B35",
+  "accent_color_dark": "#E55A2B",
+  "custom_font": {
+    "title_font": "sans-serif-black",
+    "body_font": "sans-serif",
+    "button_font": "sans-serif-medium",
+    "badge_font": "sans-serif-condensed-bold"
+  },
+  "whats_new": [
+    "UI/UX baru yang lebih modern dan fresh",
+    "Fix crash di Android 14 & 15",
+    "Fitur export/import data ditambahkan",
+    "Performa loading 2x lebih cepat"
+  ]
+}
